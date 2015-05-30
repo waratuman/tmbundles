@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>changed</key>
+	<dict>
+		<key>fileTypes</key>
+		<array>
+			<string>ledger</string>
+			<string>ldg</string>
+		</array>
+	</dict>
+	<key>isDelta</key>
+	<true/>
+	<key>uuid</key>
+	<string>66ECAE19-1421-45CE-AA25-5019FECDB1C9</string>
+</dict>
+</plist>

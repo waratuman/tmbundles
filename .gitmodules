@@ -1,0 +1,6 @@
+[submodule "Ruby.tmbundle"]
+	path = Ruby.tmbundle
+	url = git@github.com:waratuman/ruby.tmbundle.git
+[submodule "Markdown.tmbundle"]
+	path = Markdown.tmbundle
+	url = git@github.com:waratuman/markdown.tmbundle.git
